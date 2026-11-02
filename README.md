@@ -1,3 +1,5 @@
 # Demo
-First repositiary
+This is my First repository
+Author - shweta
+
 
