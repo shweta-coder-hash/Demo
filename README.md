@@ -1,5 +1,5 @@
 # Demo
-This is my First repository
-Author - shweta
+This is my First Git repository
+// Author - shweta
 
 
